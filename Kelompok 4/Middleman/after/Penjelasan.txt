@@ -1,0 +1,2 @@
+kita langsung saja menghapus getter setter yang tidak memiliki method pada class warrior
+untuk menghilangkan code smell
