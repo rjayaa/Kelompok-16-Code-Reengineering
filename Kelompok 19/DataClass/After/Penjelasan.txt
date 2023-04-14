@@ -1,0 +1,1 @@
+Class tersebut hanya berisi data dan oleh karena itu dapat dikatakan memiliki fungsionalitas yang terbatas. Untuk mengatasi hal tersebut, saya menambahkan method yang dapat meningkatkan kegunaan kode ini.
